@@ -35,6 +35,8 @@ class StepsTableViewController: UITableViewController {
             // MARK: Permission response
             self.loadMostRecentSteps()
             
+            print("Hello World, this is a test.")
+            
         }
         
         // Uncomment the following line to preserve selection between presentations
